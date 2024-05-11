@@ -1,2 +1,2 @@
 # M-Erwin-Pratama
-Tugas layout dari Pak Lalan
+Tugas dari Pak Lalan
